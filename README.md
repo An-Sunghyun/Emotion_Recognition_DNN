@@ -2,17 +2,27 @@
 Tensorflow(VGG-16, Densenet-121, Densenet-201), Pytorch(Densenet-121, Densenet-201, EfficientNet-B5, SqueezeNet1.1)
 
 ## Tensorflow Result
+
 ### VGG-16
+
 ### Densenet-121
+
 ### Densenet-201
+
 ### Resnet-101
 
 ## Pytorch Result
+
 ### Densenet-201
+
 ### EfficientNet-B5
+
 ### SqueezeNet1.1
+
 ### Resnet-18
+
 ### Resnet-50
+
 ### WideResnet-101
 
 ## Data Set
@@ -33,4 +43,8 @@ The above photo shows the analysis result and photo printed in a Python environm
 ## Demonstration View in WebSite
 
 
+The above photo shows the analysis result and photo printed in a website. User can upload image and can the result will come up right away just like image above.
+
 ## Reference Document
+
+
