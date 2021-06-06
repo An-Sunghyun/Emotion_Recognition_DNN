@@ -1,5 +1,6 @@
 # Emotion_Recognition_DNN
-Tensorflow(VGG-16, Densenet-121, Densenet-201), Pytorch(Densenet-121, Densenet-201, EfficientNet-B5, SqueezeNet1.1)
+Tensorflow(VGG-16, Densenet-121, Densenet-201, Resnet-101), Pytorch(Resnet-18, Resnet-50, WideResnet-101, Densenet-201, EfficientNet-B5, SqueezeNet1.1)
+Don't forget to modify the path setting since I didn't fix it.
 
 ## Tensorflow Result
 
