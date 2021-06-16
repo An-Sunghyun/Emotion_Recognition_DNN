@@ -36,13 +36,13 @@ I used commonly used datasets for the development of sentiment analyzers. The FE
 However, We go through the pre-process of resizing and arranging data for easy learning. Furthermore, image augmentation (zoom_range = 0.2, horizontal_flip=True, shear_range=0.2) is applied so that arbitrary data can be clearly classified.
 
 ## Face Detection
-![FaceRecognition](https://user-images.githubusercontent.com/53389350/122149643-5d8f7b80-ce97-11eb-9d12-02364ea140e2.jpg)
+![FaceRecognition](https://user-images.githubusercontent.com/53389350/122149712-7d26a400-ce97-11eb-8c82-44bd5792658b.jpg)
 
 I used OpenCV library to recognize faces. I just added a little code to extract the face coordinates.
 
 ## Demonstration View in Python
 
-![파이썬 시연결과](https://user-images.githubusercontent.com/53389350/122148683-e3122c00-ce95-11eb-82ce-d413c0572ed4.png)
+![파이썬 시연결과](https://user-images.githubusercontent.com/53389350/122149725-8283ee80-ce97-11eb-992b-499b3eb884ea.png)
 
 The above photo shows the analysis result and photo printed in a Python environment in a softmax manner.
 
