@@ -29,12 +29,6 @@ Don't forget to modify the path setting since I didn't fix it.
 ### WideResnet-101
 ![WideResnet101(Pytorch)](https://user-images.githubusercontent.com/53389350/122148198-12746900-ce95-11eb-92b5-ab23e5386218.jpg)
 
-## Conclusion
-Deep learning models implemented by tensorflow have a canonical graph, but pytorch has not. I think input shape is the main reason why pytorch didn't work properly. 
-I can set input shape with tensorflow, but pytorch can't. I gathered 48X48 image data and I could set tensorflow's input shape as 48X48. But I couldn't set pytorch's 
-input shape so I had no choice but to train model with 256x256 size. The data I have is 48X48, but the input shape was 256X256, so I think it cannot have been learned properly.
-However, VGG-16 was the best result with 89% validation acc. However, it is hard to conclude that it is the best because it is a narrow gap with densenet and resnet.
-
 ## Data Set
 ![데이터셋](https://user-images.githubusercontent.com/53389350/122148987-4e5bfe00-ce96-11eb-8774-a56174f3a982.png)
 
@@ -51,6 +45,12 @@ I used OpenCV library to recognize faces. I just added a little code to extract 
 ![파이썬 시연결과](https://user-images.githubusercontent.com/53389350/122148683-e3122c00-ce95-11eb-82ce-d413c0572ed4.png)
 
 The above photo shows the analysis result and photo printed in a Python environment in a softmax manner.
+
+## Conclusion
+Deep learning models implemented by tensorflow have a canonical graph, but pytorch has not. I think input shape is the main reason why pytorch didn't work properly. 
+I can set input shape with tensorflow, but pytorch can't. I gathered 48X48 image data and I could set tensorflow's input shape as 48X48. But I couldn't set pytorch's 
+input shape so I had no choice but to train model with 256x256 size. The data I have is 48X48, but the input shape was 256X256, so I think it cannot have been learned properly.
+VGG-16 was the best result with 89% validation acc. However, it is hard to conclude that it is the best because it is a narrow gap with densenet and resnet.
 
 ## Reference Document
 
