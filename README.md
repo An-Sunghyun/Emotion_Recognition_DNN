@@ -5,29 +5,29 @@ Don't forget to modify the path setting since I didn't fix it.
 ## Tensorflow Result
 
 ### VGG-16
-![VGG-16(Tensorflow)](https://user-images.githubusercontent.com/53389350/122148185-0e484b80-ce95-11eb-9e2c-ef53962bf467.png)
+![VGG-16(Tensorflow)](https://user-images.githubusercontent.com/53389350/122149589-43559d80-ce97-11eb-89b6-7d7c76e80b9d.png)
 ### Densenet-121
-![Densenet121(Tensorflow](https://user-images.githubusercontent.com/53389350/122148007-df31da00-ce94-11eb-8390-f109af4dc683.jpg)
+![Densenet121(Tensorflow](https://user-images.githubusercontent.com/53389350/122149457-0e494b00-ce97-11eb-968e-d7818d2bc276.jpg)
 ### Densenet-201
-![Densenet201(Tensorflow)](https://user-images.githubusercontent.com/53389350/122148058-ee188c80-ce94-11eb-9231-88442d022ee2.jpg)
+![Densenet201(Tensorflow)](https://user-images.githubusercontent.com/53389350/122149470-1608ef80-ce97-11eb-872b-bcaf0f4d1f8b.jpg)
 ### Resnet-50
-![Resnet50(Tensorflow)](https://user-images.githubusercontent.com/53389350/122148141-02f52000-ce95-11eb-8f05-d728ab1ce2d3.png)
+![Resnet50(Tensorflow)](https://user-images.githubusercontent.com/53389350/122149548-35a01800-ce97-11eb-820d-3b48e575d6ae.png)
 ### Resnet-101
-![Resnet101(Tensorflow)](https://user-images.githubusercontent.com/53389350/122148167-07213d80-ce95-11eb-99d9-907c42da4c5c.jpg)
+![Resnet101(Tensorflow)](https://user-images.githubusercontent.com/53389350/122149538-3042cd80-ce97-11eb-8f36-a7e825788697.jpg)
 ## Pytorch Result
 
 ### Densenet-201
-![Densenet201(Pytorch)](https://user-images.githubusercontent.com/53389350/122148035-e6f17e80-ce94-11eb-8291-3e1f4e297a72.jpg)
+![Densenet201(Pytorch)](https://user-images.githubusercontent.com/53389350/122149465-13a69580-ce97-11eb-8f31-ab3a7ef9f4f9.jpg)
 ### EfficientNet-B5
-![EfficientNetB5(Pytorch)](https://user-images.githubusercontent.com/53389350/122148074-f2dd4080-ce94-11eb-90e0-67a5647626cb.jpg)
+![EfficientNetB5(Pytorch)](https://user-images.githubusercontent.com/53389350/122149483-1acda380-ce97-11eb-8f25-3d60b6605b0f.jpg)
 ### SqueezeNet1.1
-![Squeezenet1 1(Pytorch)](https://user-images.githubusercontent.com/53389350/122148175-0a1c2e00-ce95-11eb-88c4-213defb4beab.jpg)
+![Squeezenet1 1(Pytorch)](https://user-images.githubusercontent.com/53389350/122149573-3df85300-ce97-11eb-8c3b-4fe4e3ea3a32.jpg)
 ### Resnet-18
-![resnet18(pytorch)](https://user-images.githubusercontent.com/53389350/122148089-f7a1f480-ce94-11eb-9356-e5430af1ed01.jpg)
+![resnet18(pytorch)](https://user-images.githubusercontent.com/53389350/122149497-1f925780-ce97-11eb-9427-1599dd6fbc42.jpg)
 ### Resnet-50
-![Resnet50(Pytorch)](https://user-images.githubusercontent.com/53389350/122148105-fcff3f00-ce94-11eb-81a9-e19955df7b02.jpg)
+![Resnet50(Pytorch)](https://user-images.githubusercontent.com/53389350/122149516-24efa200-ce97-11eb-82fc-309548bd54c0.jpg)
 ### WideResnet-101
-![WideResnet101(Pytorch)](https://user-images.githubusercontent.com/53389350/122148198-12746900-ce95-11eb-92b5-ab23e5386218.jpg)
+![WideResnet101(Pytorch)](https://user-images.githubusercontent.com/53389350/122149598-481a5180-ce97-11eb-925b-3d649d69827f.jpg)
 
 ## Data Set
 ![데이터셋](https://user-images.githubusercontent.com/53389350/122148987-4e5bfe00-ce96-11eb-8774-a56174f3a982.png)
